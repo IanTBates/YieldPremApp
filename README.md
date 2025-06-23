@@ -1,2 +1,5 @@
 # YieldPremApp
-An interactive application written in python using the shiny package that visualizes yields and provides an analysis for the decomposition of yields by risk premium.
+An interactive application written in python using the shiny package.
+
+Provides a visualization of yields and analysis tools yield fro bond risk premiums. 
+Will use ANN to train models and test predictions under various parameters and scenarios.
